@@ -1,2 +1,3 @@
 Git is a good tool.
-I like it
+I like it.
+super man.
